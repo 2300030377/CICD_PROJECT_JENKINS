@@ -1015,3 +1015,6 @@ java.util.concurrent.TimeoutException
 
 !ENTRY org.springframework.tooling.boot.ls 1 0 2025-09-22 21:56:30.438
 !MESSAGE Classpath changed for project: quiz-builder-backend
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-09-22 22:46:59.426
+!MESSAGE Classpath changed for project: quiz-builder-backend
